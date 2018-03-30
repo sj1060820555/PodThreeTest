@@ -1,0 +1,6 @@
+framework module Pods_podThreeTest_Tests {
+  umbrella header "Pods-podThreeTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
